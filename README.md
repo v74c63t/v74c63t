@@ -1,7 +1,9 @@
 ### Hi there 👋
 #### My name is Vanessa Tang and I'm a 4th year Computer Science major at UC Irvine
-#### Some languages and frameworks I have worked with: Python, Java, HTML/CSS, Javascript/Typescript(Angular, Ionic), C++, C
-#### Some databases I have worked with: MySQL, PostgreSQL, Cassandra, MongoDB, Couchbase Server, Neo4J, Spark
+#### Languages/Frameworks: Python, Java, HTML/CSS, Javascript/Typescript(Angular, Ionic), C++, C
+#### Databases: MySQL, PostgreSQL, Cassandra, MongoDB, Couchbase Server, Neo4J, Spark
+#### Currently learning: React
+#### LinkedIn: www.linkedin.com/in/vanessa-c-tang
 
 <!--
 **v74c63t/v74c63t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
