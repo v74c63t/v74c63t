@@ -3,7 +3,7 @@
 #### Languages/Frameworks: Python, Java, HTML/CSS, Javascript/Typescript(Angular, Ionic), C++, C
 #### Databases: MySQL, PostgreSQL, Cassandra, MongoDB, Couchbase Server, Neo4J, Spark
 #### Currently learning: React
-#### LinkedIn: www.linkedin.com/in/vanessa-c-tang
+#### Find me on [LinkedIn](www.linkedin.com/in/vanessa-c-tang)
 
 <!--
 **v74c63t/v74c63t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
