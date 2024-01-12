@@ -1,8 +1,8 @@
 ### Hi there 👋 
-### My name is Vanessa Tang and I'm a 4th year Computer Science major at UC Irvine with interest in backend development and full stack development
-#### Some Languages/Frameworks I've worked with: Python, Java, HTML/CSS, Javascript/Typescript(Angular, Ionic), C++, Swift, C
-#### Some Databases I've worked with: MySQL, PostgreSQL, Cassandra, MongoDB, Couchbase Server, Neo4J, Spark
-#### I'm currently learning React
+### My name is Vanessa Tang and I'm a 4th year Computer Science major at UC Irvine with an interest in backend development and full stack development
+#### Languages/Frameworks I've worked with: Python, Java, HTML/CSS, Javascript/Typescript(Angular, Ionic), C++, Swift, C
+#### Databases I've worked with: MySQL, PostgreSQL, MongoDB, Cassandra, Couchbase Server, Neo4J, Spark
+#### I'm currently learning React, Flutter
 #### Find me on [LinkedIn](www.linkedin.com/in/vanessa-c-tang)
 
 <!--
