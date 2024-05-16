@@ -4,7 +4,7 @@
 My name is Vanessa Tang and I recently graduated from UCI as a Computer Science major. I mainly have an interest in full stack development and backend development.
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v74c63t&langs_count=8&theme=maroongold)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v74c63t&langs_count=6&theme=maroongold)
 
 ## Languages and Tools
 
