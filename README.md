@@ -6,7 +6,7 @@ My name is Vanessa Tang and I recently graduated from UCI as a Computer Science 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v74c63t&langs_count=6&theme=maroongold)
 
-## Languages and Tools
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
