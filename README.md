@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 ## About Me
-My name is Vanessa Tang and I recently graduated from UCI as a Computer Science major. I mainly have an interest in full stack development and backend development. I'm currently learning about React and Next.js.
+My name is Vanessa Tang and I recently graduated from UCI as a Computer Science major. I mainly have an interest in full stack development and backend development. I'm currently learning about React, Next.js, Tailwind, and Flutter.
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v74c63t&langs_count=7&theme=maroongold)
