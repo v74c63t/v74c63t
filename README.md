@@ -1,7 +1,7 @@
 # Hi there 👋 
 
 ## About Me
-My name is Vanessa Tang and I recently graduated from UCI as a Computer Science major. I mainly have an interest in full stack development and backend development. I'm currently learning about React, Next.js, Tailwind, and Flutter.
+My name is Vanessa Tang and I recently graduated from UCI as a Computer Science major. I mainly have an interest in full stack development and backend development. I'm currently learning about React, Next.js, and TailwindCSS.
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v74c63t&langs_count=7&theme=maroongold)
@@ -16,8 +16,8 @@ My name is Vanessa Tang and I recently graduated from UCI as a Computer Science 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -27,13 +27,6 @@ My name is Vanessa Tang and I recently graduated from UCI as a Computer Science 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-<!-- #### Languages/Frameworks: I've worked with: Python, Java, HTML/CSS, Javascript/Typescript(Angular, Ionic, React), C++, Swift, C
-#### Databases I've worked with: MySQL, PostgreSQL, MongoDB, Supabase, Cassandra, Couchbase Server, Neo4J, Spark
-#### I'm currently learning React, Flutter -->
 
 ## Contact 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanessatang21@gmail.com)
